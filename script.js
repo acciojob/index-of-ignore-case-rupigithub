@@ -7,6 +7,7 @@ function indexOfIgnoreCase(s1, s2) {
 			console.log(i);
 		}
 	}
+	console.log(-1);
 }
 
 // Please do not change the code below
